@@ -20,6 +20,8 @@ Colour ramps:
 Helpful youtube videos on colour palette choice:
 - https://www.youtube.com/watch?v=hISJ2uflVCg
 
+colours?
+- [paletton](paletton.com) - can create colours that go well together
 
 ## Resolution
 
