@@ -9,6 +9,9 @@ We can get references for our sprites from:
 Youtube animation video:
 - https://www.youtube.com/watch?v=GUEVPYlv474
 
+animating a character running:
+- https://www.youtube.com/watch?v=jT6l9gZAExE
+
 ## Notes for choosing a colour palette:
 
 
