@@ -28,3 +28,16 @@ colours?
 - for sprites choose a resolution of 64x64
 
 - for map environment, we want our camera to be focused on a 640x360 <-- this seems to be pretty good space to draw in 
+
+
+## Audio
+
+free sounds?
+- [freesound](https://freesound.org/)
+
+
+
+
+
+
+
