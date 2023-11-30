@@ -4,7 +4,7 @@
 ## Animation
 
 We can get references for our sprites from:
-- (spriters resource)[https://www.spriters-resource.com/]
+- [spriters resource](https://www.spriters-resource.com/)
 
 ## Notes for choosing a colour palette:
 
