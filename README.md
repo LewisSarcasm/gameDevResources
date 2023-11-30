@@ -9,7 +9,8 @@ We can get references for our sprites from:
 ## Notes for choosing a colour palette:
 
 
-Colour ramps: https://colordesigner.io/color-palettes
+Colour ramps: 
+- [color designer])https://colordesigner.io/color-palettes)
 
 
 Helpful youtube videos on colour palette choice:
