@@ -14,6 +14,7 @@ Youtube animation video:
 
 Colour ramps: 
 - [color designer](https://colordesigner.io/color-palettes)
+- [lospec](https://lospec.com/) - sprites 
 
 
 Helpful youtube videos on colour palette choice:
