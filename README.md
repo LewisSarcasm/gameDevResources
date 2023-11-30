@@ -6,6 +6,9 @@
 We can get references for our sprites from:
 - [spriters resource](https://www.spriters-resource.com/)
 
+Youtube animation video:
+- https://www.youtube.com/watch?v=GUEVPYlv474
+
 ## Notes for choosing a colour palette:
 
 
