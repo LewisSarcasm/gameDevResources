@@ -10,7 +10,7 @@ We can get references for our sprites from:
 
 
 Colour ramps: 
-- [color designer])https://colordesigner.io/color-palettes)
+- [color designer](https://colordesigner.io/color-palettes)
 
 
 Helpful youtube videos on colour palette choice:
