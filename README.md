@@ -39,6 +39,14 @@ free sounds?
 - [freesound](https://freesound.org/)
 
 
+## AI
+
+We can use Metas Llama for our AI needs. This [article](https://simonwillison.net/2023/Nov/29/llamafile/) goes over how to download a single file and use it locally. 
+
+Once server executed on machine, we can visit it by going to http://127.0.0.1:8080 and enter a prompt. 
+
+This could be used in our game to do open ended AI dialogue
+
 
 
 
