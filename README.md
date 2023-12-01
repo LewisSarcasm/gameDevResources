@@ -12,6 +12,9 @@ Youtube animation video:
 animating a character running:
 - https://www.youtube.com/watch?v=jT6l9gZAExE
 
+importing aseprite asset into godot
+- https://www.youtube.com/watch?v=FPtJ1fgjQSg&t=156s
+
 ## Notes for choosing a colour palette:
 
 
