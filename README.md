@@ -58,3 +58,6 @@ This could be used in our game to do open ended AI dialogue
 Fucking finite state machine. Helpful guide but doesn't cover everything:
 - https://shaggydev.com/2023/11/28/godot-4-advanced-state-machines/
 
+
+maybe useful? :
+- https://www.youtube.com/watch?app=desktop&v=8aUCeoLjtVA
