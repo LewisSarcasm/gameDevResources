@@ -61,3 +61,7 @@ Fucking finite state machine. Helpful guide but doesn't cover everything:
 
 maybe useful? :
 - https://www.youtube.com/watch?app=desktop&v=8aUCeoLjtVA
+
+
+lighting: (looks useful)
+- https://www.youtube.com/watch?v=AAPqEebFV-E
