@@ -15,6 +15,9 @@ animating a character running:
 importing aseprite asset into godot
 - https://www.youtube.com/watch?v=FPtJ1fgjQSg&t=156s
 
+cool jedi sprite:
+- https://www.youtube.com/watch?v=hkvwbkjCTWw
+
 ## Notes for choosing a colour palette:
 
 
@@ -65,3 +68,5 @@ maybe useful? :
 
 lighting: (looks useful)
 - https://www.youtube.com/watch?v=AAPqEebFV-E
+
+
