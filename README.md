@@ -70,3 +70,6 @@ lighting: (looks useful)
 - https://www.youtube.com/watch?v=AAPqEebFV-E
 
 
+Composition and way to structure godot nodes
+- https://www.youtube.com/watch?v=rCu8vQrdDDI
+
