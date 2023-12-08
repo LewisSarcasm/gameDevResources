@@ -75,3 +75,9 @@ lighting: (looks useful)
 Composition and way to structure godot nodes
 - https://www.youtube.com/watch?v=rCu8vQrdDDI
 
+shooting arrow from stationary position:
+- https://www.youtube.com/watch?v=sWUGxkbh2fg
+
+
+
+
