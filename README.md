@@ -82,5 +82,6 @@ assets from aseprite to godot
 - https://www.youtube.com/watch?v=XotUn0q__cQ
 
 
-
+saving and loading in godot - VERY GOOD video 
+- https://www.youtube.com/watch?v=43BZsLZheA4
 
