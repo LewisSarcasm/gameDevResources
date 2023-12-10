@@ -78,6 +78,9 @@ Composition and way to structure godot nodes
 shooting arrow from stationary position:
 - https://www.youtube.com/watch?v=sWUGxkbh2fg
 
+assets from aseprite to godot
+- https://www.youtube.com/watch?v=XotUn0q__cQ
+
 
 
 
