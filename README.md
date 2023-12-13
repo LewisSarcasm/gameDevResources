@@ -1,5 +1,9 @@
 # gameDevResources
 
+## Tools for art
+
+- Krita
+
 
 ## Animation
 
