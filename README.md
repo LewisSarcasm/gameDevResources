@@ -7,6 +7,9 @@
 
 ## Animation
 
+really good 16x16 sprites
+- https://i.imgur.com/eOGXDxF.jpg
+
 We can get references for our sprites from:
 - [spriters resource](https://www.spriters-resource.com/)
 
