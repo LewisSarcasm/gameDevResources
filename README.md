@@ -25,6 +25,10 @@ importing aseprite asset into godot
 cool jedi sprite:
 - https://www.youtube.com/watch?v=hkvwbkjCTWw
 
+
+useful pixel art
+- https://www.slynyrd.com/blog/2018/2/15/pixelblog-2-texture
+
 ## Notes for choosing a colour palette:
 
 
