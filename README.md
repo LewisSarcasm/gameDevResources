@@ -1,5 +1,11 @@
 # gameDevResources
 
+
+## free sprites
+
+free 2d sprites:
+- https://craftpix.net/freebies/filter/2d-game-objects/
+
 ## Tools for art
 
 - Krita
