@@ -1,6 +1,12 @@
 # gameDevResources
 
 
+
+## AI
+
+Behavior Trees
+- https://thisisvini.com/behavior-trees
+
 ## free sprites
 
 free 2d sprites:
