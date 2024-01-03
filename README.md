@@ -9,6 +9,10 @@ Behavior Trees
 
 ## free sprites
 
+cool sprites
+- https://raymond-schlitter.squarespace.com/pixelblog-catalogue
+
+
 free 2d sprites:
 - https://craftpix.net/freebies/filter/2d-game-objects/
 
