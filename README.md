@@ -19,7 +19,11 @@ free 2d sprites:
 ## Tools for art
 
 - Krita
+- aseprite (easily the best!)
+  - it is free if you compile the source, but can also purchase from steam!
 
+## Deployment
+- Use CICD pipepline for [godot](https://github.com/abarichello/godot-ci)
 
 ## Animation
 
