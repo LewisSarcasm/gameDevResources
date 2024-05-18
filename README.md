@@ -92,8 +92,13 @@ This could be used in our game to do open ended AI dialogue
 Fucking finite state machine. Helpful guide but doesn't cover everything:
 - https://shaggydev.com/2023/11/28/godot-4-advanced-state-machines/
 
+Really liked this video on state machines, changes would need to be made for player (I think, but works well for NPC):
+- https://www.youtube.com/watch?v=ow_Lum-Agbs
+
+  
 maybe helpful? Not watched - state machine: 
 - https://www.youtube.com/watch?v=Fex3OQqYUiI
+
 
 maybe useful? :
 - https://www.youtube.com/watch?app=desktop&v=8aUCeoLjtVA
