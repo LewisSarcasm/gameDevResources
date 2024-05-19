@@ -16,6 +16,12 @@ cool sprites
 free 2d sprites:
 - https://craftpix.net/freebies/filter/2d-game-objects/
 
+## Shaders for godot
+- Found these two videos very helpful for making shaders in godot!
+  - https://www.youtube.com/watch?v=CJvDNBY_K1Q
+  - https://www.youtube.com/watch?v=YCFiCE1i-As
+
+
 ## Tools for art
 
 - Krita
