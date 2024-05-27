@@ -10,6 +10,10 @@ Behavior Trees
 Path finding in Godot - very good explaination and run through:
 - https://www.youtube.com/watch?v=yT22SXYpoYM
 
+## Drawing sprite guides:
+- good: https://blog.studiominiboss.com/pixelart
+
+
 ## free sprites
 
 cool sprites
