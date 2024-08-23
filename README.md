@@ -2,6 +2,11 @@
 
 
 
+## State Machines
+Godot has a useful plugin that could be used for your state machines:
+- "State Charts"
+- Useful youtube video: https://www.youtube.com/watch?v=E9h9VnbPGuw 
+
 ## AI
 
 Behavior Trees
@@ -19,6 +24,8 @@ Path finding in Godot - very good explaination and run through:
 cool sprites
 - https://raymond-schlitter.squarespace.com/pixelblog-catalogue
 
+The Spriters resource
+- https://www.spriters-resource.com/
 
 free 2d sprites:
 - https://craftpix.net/freebies/filter/2d-game-objects/
