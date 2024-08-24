@@ -1,6 +1,9 @@
 # gameDevResources
 
 
+## Godot saving
+- https://docs.godotengine.org/en/stable/tutorials/io/saving_games.html
+- godot official way of saving!
 
 ## State Machines
 Godot has a useful plugin that could be used for your state machines:
