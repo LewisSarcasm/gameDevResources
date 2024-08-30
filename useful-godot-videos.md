@@ -14,4 +14,5 @@ great for getting started with rpg:
 destroying object - with animation
 - https://www.youtube.com/watch?v=pGgLIolljx0&list=PLGZeG39sIjYtbDPZYwh8zKx1VMIxuHhis&index=4
 
-
+composition pattern:
+- https://www.youtube.com/watch?v=rCu8vQrdDDI
