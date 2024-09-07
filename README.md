@@ -1,6 +1,11 @@
 # gameDevResources
 
+## Godot multiplayer
+= we can use steam Peer to peer (P2P) for multiple aspects of our game
+- GodotSteam requiremnets: https://godotsteam.com/
+- useful video and youtuber on subject: https://www.youtube.com/watch?v=HHoCkyBdRMs
 
+  
 ## Godot saving
 - https://docs.godotengine.org/en/stable/tutorials/io/saving_games.html
 - godot official way of saving!
