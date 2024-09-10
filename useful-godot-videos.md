@@ -16,3 +16,6 @@ destroying object - with animation
 
 composition pattern:
 - https://www.youtube.com/watch?v=rCu8vQrdDDI
+
+Good rpg systems basics here:
+- https://www.youtube.com/playlist?list=PLfcCiyd_V9GH8M9xd_QKlyU8jryGcy3Xa
