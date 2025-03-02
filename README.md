@@ -1,5 +1,8 @@
 # gameDevResources
 
+## Steam information:
+Steam sales: https://gamalytic.com/
+
 ## Godot multiplayer
 - we can use steam Peer to peer (P2P) for multiple aspects of our game
 - GodotSteam requiremnets: https://godotsteam.com/
