@@ -20,8 +20,14 @@ Godot has a useful plugin that could be used for your state machines:
 Behavior Trees
 - https://thisisvini.com/behavior-trees
 
+Discussion around scheduling: 
+- https://www.reddit.com/r/godot/comments/185g0be/handling_npc_schedules_when_scene_not_loaded/
+  
 Path finding in Godot - very good explaination and run through:
 - https://www.youtube.com/watch?v=yT22SXYpoYM
+
+Dijkshas Maps:
+- https://www.roguebasin.com/index.php/The_Incredible_Power_of_Dijkstra_Maps
 
 ## Drawing sprite guides:
 - good: https://blog.studiominiboss.com/pixelart
